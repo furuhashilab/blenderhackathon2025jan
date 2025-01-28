@@ -7,3 +7,4 @@
 - **hoge.fbx**
 - **hoge.stl**
 ```
+https://scaniverse.com/scan/wao6b73kfujpsmyn
