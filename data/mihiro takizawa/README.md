@@ -1,5 +1,5 @@
 
-# 滝沢未広のデータファイル保管場所
+# 滝沢未広の成果物保管場所
 
 - **hoge.blender**
 - **hoge.gltf**
@@ -7,4 +7,5 @@
 - **hoge.fbx**
 - **hoge.stl**
 ```
-https://scaniverse.com/scan/wao6b73kfujpsmyn
+<iframe width="100%" height="100%" frameborder="0" allowfullscreen src="https://scaniverse.com/scan/wao6b73kfujpsmyn?embed=1"></iframe>
+
