@@ -7,5 +7,6 @@
 - **hoge.fbx**
 - **hoge.stl**
 ```
-<iframe width="100%" height="100%" frameborder="0" allowfullscreen src="https://scaniverse.com/scan/wao6b73kfujpsmyn?embed=1"></iframe>
+https://scaniverse.com/scan/wao6b73kfujpsmyn
+bldnderhackathon2025jan/deta/MihiroTakizawa
 
