@@ -20,7 +20,7 @@ s z 4で縦4倍（+z軸方向）に×4拡大します。これで、街灯らし
 ### ポリゴン数削除
 今回はポリゴン数が1000以下と指定ですが、細分化した状態では3000近くなってしまうので、メッシュを荒くしていきます。
 ↓修正前はこんなかんじです。
-###![スクリーンショット 2025-01-29 151036](https://github.com/user-attachments/assets/92bfe2d9-bea2-4cff-9245-c67c517237f6)
+![スクリーンショット 2025-01-29 151036](https://github.com/user-attachments/assets/92bfe2d9-bea2-4cff-9245-c67c517237f6)
 ↓ポリゴン数を減らすため、Add modifier→Decimateを選択します。
 ![スクリーンショット 2025-01-29 151056](https://github.com/user-attachments/assets/ae3ea1ce-e18d-4c55-92b5-8c287e5dda49)
 Ratioを調節し、984まで落としました。所感として、800以下にすると、街灯上部分がカクカクし始めます。
