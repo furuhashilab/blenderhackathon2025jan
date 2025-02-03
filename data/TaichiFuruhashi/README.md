@@ -3,9 +3,10 @@
 ## Rawデータ
 https://scaniverse.com/scan/obke67hsdnhths3o
 
-![Image](https://github.com/user-attachments/assets/528b6f31-a3d3-4e68-a552-0621ffe2c07c)
+<img src="https://github.com/user-attachments/assets/528b6f31-a3d3-4e68-a552-0621ffe2c07c" width="200">
 
-![Image](https://github.com/user-attachments/assets/299bec88-ecc7-44e7-95f1-4a14c50c7f1e)
+<img src="https://github.com/user-attachments/assets/299bec88-ecc7-44e7-95f1-4a14c50c7f1e" width="200">
+
 
 ## 完成データ(まだ作業中)
 * hoge.blender
